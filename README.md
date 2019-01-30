@@ -1,1 +1,2 @@
-# Java_Advanced
+# Java Advanced
+### SoftUni course
